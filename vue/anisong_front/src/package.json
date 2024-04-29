@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@braks/revue-draggable": "^0.5.0",
+    "axios": "^1.6.8",
+    "vuedraggable": "next"
+  }
+}
