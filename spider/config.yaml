@@ -1,0 +1,8 @@
+anime_index: 1
+anisong_index: 1
+sql_database_config:
+  db: 
+  host: 127.0.0.1
+  password: 
+  port: 3306
+  user:
